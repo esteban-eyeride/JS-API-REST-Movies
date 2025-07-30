@@ -1,0 +1,19 @@
+{
+  "name": "js-api-rest-movies",
+  "version": "1.0.0",
+  "description": "PLatzi Consumo de APi REST",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esteban-eyeride/JS-API-REST-Movies.git"
+  },
+  "author": "Esteban.C",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/esteban-eyeride/JS-API-REST-Movies/issues"
+  },
+  "homepage": "https://github.com/esteban-eyeride/JS-API-REST-Movies#readme"
+}
